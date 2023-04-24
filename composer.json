@@ -1,11 +1,11 @@
 {
-    "name": "soudnking425/article-content-provider-bundle",
+    "name": "soundking425/article-content-provider-bundle",
     "description": "Test",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
         {
-            "name": "soudnking425",
+            "name": "soundking425",
             "email": "k.r.i.s@list.ru",
             "role": "Creator"
         }
