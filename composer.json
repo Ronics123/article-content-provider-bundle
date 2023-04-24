@@ -1,14 +1,17 @@
 {
-    "name": "ronics/article-content-provider-bundle",
+    "name": "soudnking425/article-content-provider-bundle",
     "description": "Test",
+    "type": "symfony-bundle",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Ronics",
-            "email": "k.r.i.s@list.ru"
+            "name": "soudnking425",
+            "email": "k.r.i.s@list.ru",
+            "role": "Creator"
         }
     ],
     "require": {
-        "php": "8.1"
+        "php": "^8.1"
     },
     "autoload": {
         "psr-4": {
